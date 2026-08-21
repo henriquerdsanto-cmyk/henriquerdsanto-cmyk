@@ -1,18 +1,19 @@
 ### Hi 👋, I'm Henrique Ribeiro
 
-🚀 Support Analyst III transitioning into Software Development | Delphi | Learning JavaScript, Python & Java
+Senior Software Engineer | JavaScript & Python Specialist
+🇧🇷 Brazil
 
-🇧🇷 Based in Brazil
+I build scalable products, SaaS platforms, and high-performance web systems.
+I’m deeply focused on architecture, performance, clean code, and business-driven solutions.
 
-I currently implement and support business systems and build automation templates with Delphi at Radio Memory, while studying Systems Analysis & Software Development and building up JavaScript, Python and Java to move into a full Software Developer role.
-
-#### 🧠 What I'm doing
-
-- 🛠️ Implementing and supporting production systems
-- 🧩 Building Delphi templates and internal automations
-- 📚 Studying Systems Analysis & Software Development
-- 💻 Learning JavaScript, Python and Java
-- 🌍 Actively looking for remote Software Developer opportunities
+🧠 What I do
+🏗️ SaaS & High-scale systems
+⚡ Performance optimization
+🧩 Clean architecture & system design
+🔐 Secure APIs & authentication
+💳 Payments, subscriptions & business logic
+🤖 Automation & integrations
+📊 Dashboards & analytics
 
 #### 🛠️ Tech Stack
 
