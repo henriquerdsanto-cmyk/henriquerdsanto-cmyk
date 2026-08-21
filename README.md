@@ -30,6 +30,7 @@ I’m deeply focused on architecture, performance, clean code, and business-driv
 
 #### 🚀 Philosophy
 
-> "Every system I support today teaches me how to build better software tomorrow."
+> "Code is not just about solving problems.
+It's about building solutions that scale, last, and generate real value."
 
 🤝 Open to remote Software Developer opportunities — always happy to connect
