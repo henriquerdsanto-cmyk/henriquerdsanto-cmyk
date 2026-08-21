@@ -1,16 +1,33 @@
-## Hi there 👋
+### Hi 👋, I'm Henrique Ribeiro
 
-<!--
-**henriquerdsanto-cmyk/henriquerdsanto-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Support Analyst III transitioning into Software Development | Delphi | Learning JavaScript, Python & Java
+🇧🇷 Based in Brazil
 
-Here are some ideas to get you started:
+I currently implement and support business systems and build automation templates with Delphi at Radio Memory, while studying Systems Analysis & Software Development and building up JavaScript, Python and Java to move into a full Software Developer role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧠 What I'm doing
+
+- 🛠️ Implementing and supporting production systems
+- 🧩 Building Delphi templates and internal automations
+- 📚 Studying Systems Analysis & Software Development
+- 💻 Learning JavaScript, Python and Java
+- 🌍 Actively looking for remote Software Developer opportunities
+
+#### 🛠️ Tech Stack
+
+![Delphi](https://img.shields.io/badge/-Delphi-A41E22?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+#### 📊 GitHub Stats
+
+![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquerdsanto-cmyk&show_icons=true&theme=default)
+
+#### 🚀 Philosophy
+
+> "Every system I support today teaches me how to build better software tomorrow."
+
+🤝 Open to remote Software Developer opportunities — always happy to connect
