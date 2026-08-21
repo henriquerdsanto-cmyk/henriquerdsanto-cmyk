@@ -16,7 +16,7 @@ I currently implement and support business systems and build automation template
 
 #### 💼 Projects
 
-- **[Vitraqis](https://www.vitraqis.com.br/)** — Management SaaS platform for aesthetic clinics: scheduling, patient records, finance, inventory and a WhatsApp AI agent, all in one system.
+- **[Vitraqis](https://www.vitraqis.com.br/)** — Management SaaS platform for aesthetic clinics: scheduling, patient records, finance, inventory and a WhatsApp AI agent, all in one system. Also led a security hardening cycle (vulnerability remediation, multi-tenant data isolation, LGPD compliance work).
 - **[Dra. Mariana Souza](https://drmarianasouza.com.br/)** — Website for an aesthetic medicine clinic, with procedures showcase and an online booking flow.
 
 #### 🛠️ Tech Stack
