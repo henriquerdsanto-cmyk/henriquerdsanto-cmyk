@@ -1,6 +1,7 @@
 ### Hi 👋, I'm Henrique Ribeiro
 
 🚀 Support Analyst III transitioning into Software Development | Delphi | Learning JavaScript, Python & Java
+
 🇧🇷 Based in Brazil
 
 I currently implement and support business systems and build automation templates with Delphi at Radio Memory, while studying Systems Analysis & Software Development and building up JavaScript, Python and Java to move into a full Software Developer role.
