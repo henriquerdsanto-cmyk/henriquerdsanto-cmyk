@@ -24,6 +24,8 @@ I’m deeply focused on architecture, performance, clean code, and business-driv
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+
+
 #### 📊 GitHub Stats
 
 ![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquerdsanto-cmyk&show_icons=true&theme=default)
