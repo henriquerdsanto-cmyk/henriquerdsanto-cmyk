@@ -16,16 +16,20 @@ I currently implement and support business systems and build automation template
 
 #### 💼 Projects
 
-- **[Vitraqis](https://www.vitraqis.com.br/)** — Management SaaS platform for aesthetic clinics: scheduling, patient records, finance, inventory and a WhatsApp AI agent, all in one system. Also led a security hardening cycle (vulnerability remediation, multi-tenant data isolation, LGPD compliance work).
+- **[Vitraqis](https://www.vitraqis.com.br/)** — Management SaaS platform for aesthetic clinics: scheduling, patient records, finance, inventory and a WhatsApp AI agent, all in one system. Built with React, TypeScript and Supabase/PostgreSQL. Also led a security hardening cycle (vulnerability remediation, multi-tenant data isolation, LGPD compliance work).
 - **[Dra. Mariana Souza](https://drmarianasouza.com.br/)** — Website for an aesthetic medicine clinic, with procedures showcase and an online booking flow.
 
 #### 🛠️ Tech Stack
 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Delphi](https://img.shields.io/badge/-Delphi-A41E22?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 #### 📊 GitHub Stats
